@@ -6,6 +6,21 @@ This document presents a methodology for generating sacred mandala images using 
 
 ---
 
+## Viewer Advisory: Visual Effects Warning
+
+**Some viewers may experience dizziness, visual fatigue, or a sense of "weirdness" when viewing the generated mandalas.**
+
+This is a normal reaction to highly complex, symmetric, and colorful generative art, especially when it involves intense color gradients, concentric patterns, and high visual density. The brain's pattern recognition systems can become overstimulated, leading to temporary sensations of dizziness or cognitive dissonance. If you experience discomfort:
+
+- Take a break and look at a neutral or simple background.
+- Rest your eyes for a few minutes.
+- Hydrate if needed.
+- The effect is temporary and not harmful.
+
+If you are sensitive to visual stimuli, consider viewing the mandalas in moderation or adjusting the color and contrast settings in the code.
+
+---
+
 ## 1. Introduction
 
 Mandalas are geometric configurations of symbols, often used in spiritual traditions for meditation, healing, and self-reflection. Magic squares—square arrays of numbers with equal row, column, and diagonal sums—have fascinated mathematicians and mystics alike for centuries. This methodology fuses these two traditions, using personal numerological data from multiple systems to generate unique magic squares, which are then visualized as mandalas.
